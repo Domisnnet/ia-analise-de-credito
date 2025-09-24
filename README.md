@@ -28,7 +28,7 @@ Nesta etapa, a base de dados de clientes, `clientes.csv`, é importada para a an
 # Standard = OK
 # Poor = Ruim
 
-[Tabela de Dados](png/tela1.PNG)
+![Tabela de Dados](png/tela1.PNG)
 
 ---
 
@@ -42,9 +42,9 @@ Primeiro, verificamos o tipo de dados de cada coluna.
 # float -> numero com casa decimal
 # object -> texto
 
-[Base d Dados](png/tela2.PNG)
-[Base de Dados](png/tela3.PNG)
-[Base de Dados](png/tela4.PNG)
+![Base d Dados](png/tela2.PNG)
+![Base de Dados](png/tela3.PNG)
+![Base de Dados](png/tela4.PNG)
 
 ---
 
@@ -54,13 +54,13 @@ Primeiro, verificamos o tipo de dados de cada coluna.
 
 ### Passo 4 - Treinar a Inteligência Artificial e criar o modelo
 
-[Modelo de IA](png/tela5.PNG)
+![Modelo de IA](png/tela5.PNG)
 
 ---
 
 ### Passo 5 - Avaliar e escolher o melhor modelo
 
-[Acuracidade](png/tela6.PNG)
+![Acuracidade](png/tela6.PNG)
 
 ---
 
@@ -68,7 +68,7 @@ Primeiro, verificamos o tipo de dados de cada coluna.
 
 Este é o estágio final, onde o modelo treinado é aplicado a novos dados de clientes para gerar as previsões de score de crédito. É fundamental que os novos dados passem pelas mesmas etapas de transformação que os dados de treino, para que o modelo possa interpretá-los corretamente.
 
-[Melhor Modelo](png/tela7.PNG)
+![Melhor Modelo](png/tela7.PNG)
 
 ---
 
@@ -76,4 +76,4 @@ Este é o estágio final, onde o modelo treinado é aplicado a novos dados de cl
 
 Nesta etapa final, o modelo de machine learning que foi treinado com sucesso é utilizado para fazer previsões em dados de clientes que ele nunca viu antes. É crucial que a nova base de dados passe pelas mesmas transformações que a base de dados de treino, garantindo que o modelo possa processá-la corretamente.
 
-[Resultado Final](png/tela8.PNG)
+![Resultado Final](png/tela8.PNG)
