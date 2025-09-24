@@ -42,9 +42,7 @@ Primeiro, verificamos o tipo de dados de cada coluna.
 # float -> numero com casa decimal
 # object -> texto
 
-![Base d Dados](png/tela2.PNG)
-![Base de Dados](png/tela3.PNG)
-![Base de Dados](png/tela4.PNG)
+![Base d Dados](png/Design%20sem%20nome.png)
 
 ---
 
