@@ -1,4 +1,4 @@
-
+<div style="background-color:rgb(10, 10, 10); padding: 20px; border-radius: 6px;">
 
 # Projeto Python IA: Inteligência Artificial e Previsões
 
@@ -75,3 +75,5 @@ Este é o estágio final, onde o modelo treinado é aplicado a novos dados de cl
 Nesta etapa final, o modelo de machine learning que foi treinado com sucesso é utilizado para fazer previsões em dados de clientes que ele nunca viu antes. É crucial que a nova base de dados passe pelas mesmas transformações que a base de dados de treino, garantindo que o modelo possa processá-la corretamente.
 
 ![Resultado Final](png/tela8.PNG)
+
+</div>
